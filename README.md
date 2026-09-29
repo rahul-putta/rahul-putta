@@ -1,16 +1,78 @@
-## Hi there 👋
+Hi 👋, I'm Rahul Putta
 
-<!--
-**rahul-putta/rahul-putta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI / ML Developer | Python | Generative AI
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science student interested in building intelligent applications using Machine Learning, Deep Learning, and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring **LLMs, RAG, Transformers, and AI application development**.
+
+
+🚀 What I'm Working On
+
+* 🤖 Machine Learning & Deep Learning
+* 🧠 Large Language Models (LLMs)
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🛠️ AI-powered applications
+* 🌐 Backend development with Python and APIs
+
+
+🧰 Tech Stack
+
+Languages
+
+Python` `Java` `SQL` 
+
+Machine Learning
+
+Scikit-learn` `Pandas` `NumPy` `Matplotlib
+
+Deep Learning
+
+TensorFlow` `PyTorch
+
+AI / GenAI
+
+NLP` `Transformers` `LLMs` `RAG` `Embeddings
+
+Development
+
+Git` `GitHub` `REST APIs` `FastAPI`
+
+ 📌 Featured Project
+
+🌱 Plant Leaf Disease Detection using Ensemble Learning & Explainable AI
+
+A machine-learning project for detecting plant leaf diseases using ensemble learning techniques with explainable AI.
+
+Focus: Machine Learning • Ensemble Learning • Explainable AI • Python
+
+📚 Currently Learning
+
+text
+Transformers
+     ↓
+LLMs
+     ↓
+Embeddings
+     ↓
+Vector Databases
+     ↓
+RAG
+     ↓
+AI Agents
+
+🎯 2026 Goals
+
+* Build practical Generative AI applications
+* Develop RAG-based systems
+* Learn LLM fine-tuning
+* Build and deploy AI projects
+* Contribute to open-source projects
+
+
+🤝 Let's Connect
+
+I'm interested in collaborating on **AI, Machine Learning, Generative AI and open-source projects**.
+
+⭐ Feel free to explore my repositories!
+
